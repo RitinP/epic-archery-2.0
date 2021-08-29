@@ -1,1 +1,3 @@
-# epic-archery-2.0
+# hunter-archer
+
+Project Solution for hunter-archer
